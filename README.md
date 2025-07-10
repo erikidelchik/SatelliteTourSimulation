@@ -50,13 +50,14 @@ python simulate_orbit.py --alt 550 --inc 30 --hours 3
 ```
 
 ## ▶️ How to run
-'''
-Open the generated KML file in Google Earth Pro on desktop.
+```
 
-In the left‑hand Places panel, expand Tours (if it’s collapsed) and click Orbit fly‑along.
+# 1. Open the generated KML file in Google Earth Pro on desktop.
 
-Press the Play Tour ▶︎ button (usually at the bottom‑right of the 3‑D view) to watch the animation.
-'''
+# 2. In the left‑hand Places panel, expand Tours (if it’s collapsed) and click Orbit fly‑along.
+
+# 3. Press the Play Tour ▶︎ button (usually at the bottom‑right of the 3‑D view) to watch the animation.
+```
 
 ## 🗄️ Project structure
 
