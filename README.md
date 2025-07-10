@@ -1,3 +1,4 @@
+# Animated Satellite Orbit KML Generator
 Generate an **animated satellite ground‑track** with camera fly‑along and dynamic overlay for playback in Google Earth.
 
 ---
@@ -54,9 +55,10 @@ python simulate_orbit.py --alt 550 --inc 30 --hours 3
 2. In the left‑hand Places panel, expand Tours (if it’s collapsed) and click Orbit fly‑along:
 <img width="348" height="268" alt="image" src="https://github.com/user-attachments/assets/4b1047d3-88c5-46e8-8058-425e533afaed" />
 
+
 3. Press the Play Tour button (usually at the bottom‑right of the 3‑D view) to watch the animation:
 <img width="349" height="68" alt="image" src="https://github.com/user-attachments/assets/4dd859db-473a-4e97-9367-4909be821f95" />
-
+---
 
 ## 🗄️ Project structure
 
