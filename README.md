@@ -46,8 +46,17 @@ python simulate_orbit.py --alt 550 --inc 30 --hours 3
 # The script prints
 #   Saved mask.png
 #   Tour-enabled KML saved to orbit_tour_evenly_spaced_20_targets550km_30deg.kml
-# Double‑click that file in Google Earth and hit the Play ▶ button.
+
 ```
+
+## ▶️ How to run
+'''
+Open the generated KML file in Google Earth Pro on desktop.
+
+In the left‑hand Places panel, expand Tours (if it’s collapsed) and click Orbit fly‑along.
+
+Press the Play Tour ▶︎ button (usually at the bottom‑right of the 3‑D view) to watch the animation.
+'''
 
 ## 🗄️ Project structure
 
