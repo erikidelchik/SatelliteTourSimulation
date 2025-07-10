@@ -58,6 +58,7 @@ python simulate_orbit.py --alt 550 --inc 30 --hours 3
 
 3. Press the Play Tour button (usually at the bottom‑right of the 3‑D view) to watch the animation:
 <img width="349" height="68" alt="image" src="https://github.com/user-attachments/assets/4dd859db-473a-4e97-9367-4909be821f95" />
+
 ---
 
 ## 🗄️ Project structure
